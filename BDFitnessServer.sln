@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDFitnessServer", "BDFitnessServer\BDFitnessServer.csproj", "{5A03D661-B41E-4A05-BBB3-420DC5B21DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDFitnessServer.Tests", "BDFitnessServer.Tests\BDFitnessServer.Tests.csproj", "{483AF02C-8FDD-405C-A7A0-EAE1CBC11A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A03D661-B41E-4A05-BBB3-420DC5B21DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A03D661-B41E-4A05-BBB3-420DC5B21DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A03D661-B41E-4A05-BBB3-420DC5B21DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A03D661-B41E-4A05-BBB3-420DC5B21DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483AF02C-8FDD-405C-A7A0-EAE1CBC11A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483AF02C-8FDD-405C-A7A0-EAE1CBC11A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483AF02C-8FDD-405C-A7A0-EAE1CBC11A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483AF02C-8FDD-405C-A7A0-EAE1CBC11A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
